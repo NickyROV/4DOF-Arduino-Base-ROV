@@ -1,6 +1,5 @@
 ////////////////////////////////////////////////////////
 //                                                    //
-//      German Swiss Internatonal School              //
 //      Class I ROV Control via RS485 tethering       //    
 //      Slave (ROV) - utilzing tethering data to      //
 //                    control vehicle motion          //   
