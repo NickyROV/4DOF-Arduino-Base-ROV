@@ -1,6 +1,5 @@
 ////////////////////////////////////////////////////////
 //                                                    //
-//      German Swiss Internatonal School              //
 //      Class I ROV Control via RS485 tethering       //
 //      Master - map control input into thruster PWM  //
 //               and send it through via RS485        //
