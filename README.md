@@ -7,7 +7,7 @@ In this project I try to use dual 2-DOF RC joy stick to control 4-DOF ROV (Surge
 
 For simplicity I use Blue Robotic T200 Thruster with corresponding ESC (just because it's handy).
 
-Tethering - RS485 Simplex communication wwith LED signal
+Tethering - RS485 Simplex communication wwith LED signal by Funduino I/O Expansion shield.
 
 Sensor - none (depth-MS5540C, temperature, pressure, turbidity, compass, leak, dissolved oxygen, sonar mapping... are all feasible, maybe next time)
 
