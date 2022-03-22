@@ -1,5 +1,5 @@
 # ROV
-Aim for clarity, not efficiency, practical DIY guide for ROV with Arudino Driven 4 DOF conrtol.
+Aim for clarity, not efficiency, practical guide for ROV with Arudino Driven 4 DOF conrtol.
 
 In this project I try to use dual 2-DOF RC joy stick to control 4-DOF ROV (Surge, Sway, Heave and Yaw), the remaining (Pitch and Roll) can be achieved by installing extra thruster.
 
