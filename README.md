@@ -1,3 +1,5 @@
+Problem with power management, pin assignment and much more early this year(2022), will upgrade this model with entirely different approach this summer!
+
 # ROV
 Aim for clarity, not efficiency, practical guide for ROV with Arudino Driven 4 DOF conrtol.
 
